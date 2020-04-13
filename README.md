@@ -1,2 +1,2 @@
-# covid19tracker.github.io
-It is generation reports on covid19
+# covid19tracker
+It is generating reports on covid19
